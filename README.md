@@ -7,7 +7,7 @@ $ cd go-chase-it
 $ catkin_make
 ```
 
-### Runnung
+### Running
 #### Launch `my_robot`
 ```sh
 $ cd <path-to-repo-workspace>/go-chase-it/
