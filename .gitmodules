@@ -1,0 +1,6 @@
+[submodule "git@github.com:daniel-m-campos/my_robot.git"]
+	path = git@github.com:daniel-m-campos/my_robot.git
+	url = ./src/my_robot
+[submodule "git@github.com:daniel-m-campos/ball_chaser.git"]
+	path = git@github.com:daniel-m-campos/ball_chaser.git
+	url = ./src/ball_chaser
