@@ -10,7 +10,9 @@ $ source install-ubuntu.sh
 
 ### Build the workspace
 ```sh
-$ cd <path-to-repo-workspace>/go-chase-it/
+$ cd <path-to-repo-workspace>/go-chase-it/src
+$ catkin_init_workspace
+$ cd ..
 $ catkin_make
 ```
 
