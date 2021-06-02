@@ -1,9 +1,16 @@
 # Go-Chase-It Project
 
-### Clone and build the workspace
+### Install Requirements
+This project requires `gcc>=9` due to the use of `C++17`.
 ```sh
 $ git clone https://github.com/daniel-m-campos/go-chase-it.git --recurse-submodules
 $ cd go-chase-it
+$ source install-ubuntu.sh
+```
+
+### Build the workspace
+```sh
+$ cd <path-to-repo-workspace>/go-chase-it/
 $ catkin_make
 ```
 
